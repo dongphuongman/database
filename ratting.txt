@@ -1,4 +1,3 @@
 {
-    "20241104": "orange,gooseberry,apple",
     "20241103": "orange,gooseberry,apple"
 }
